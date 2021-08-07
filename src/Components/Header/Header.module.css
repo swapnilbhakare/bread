@@ -1,0 +1,14 @@
+.header {
+  height: 528px;
+}
+.heading {
+  text-align: center;
+  font-size: 44px;
+  width: 528px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 7.938rem;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}

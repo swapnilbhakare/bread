@@ -1,0 +1,18 @@
+.Card{
+    position: absolute;
+    height: 1063px;
+    width: 906px;
+    background: #fff;
+    margin: 0 230px;
+    margin-top: -150px;
+    border-radius: 9px;
+}
+.profile{
+    height: 120px;
+    display: flex;
+
+}
+.imageWrapper {
+    display: flex;
+    background: #121212;
+}
